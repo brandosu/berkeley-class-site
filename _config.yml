@@ -55,6 +55,8 @@ aux_links:
     - 'https://edstem.org'
   OH Queue:
     - 'https://oh.data8.org/'
+  Textbook:
+    - 'https://inferentialthinking.com/chapters/intro.html'
 
 # Collections for website data
 collections:

@@ -434,15 +434,15 @@
   }
   
   .btn-bcourses {
-    @include btn-color($white, #19519a);
+    @include btn-color($white, #8C183B);
   }
   
   .btn-gradescope {
-    @include btn-color($white, #228B22);
+    @include btn-color($white, #055E8A);
   }
   
   .btn-textbook {
-    @include btn-color($white, teal);
+    @include btn-color($white, #1B1D1D);
   }
   
   .btn-extensions {
@@ -450,7 +450,7 @@
   }
   
   .btn-currweek {
-    @include btn-color($white, #FA8072);
+    @include btn-color($white, #355F41);
   }
   
   .btn-officehours{
