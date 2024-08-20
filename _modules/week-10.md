@@ -8,7 +8,7 @@ Oct 28
 : **26**{: .label} The Normal Distribution
     : {{site.links.lec.slides.slide26}} {{site.links.lec.demo.demo26}}
 : _Reading:_ [16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)
-: **Lab**{: .label .label-lab} {{site.links.lab.lab8}} (Due 11/1)
+: **Lab**{: .label .label-lab} {{site.links.lab.lab08}} (Due 11/1)
   : {{site.links.wksht.wksht08}}
 
 Oct 30
