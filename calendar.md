@@ -16,11 +16,12 @@ UC Berkeley, Fall 2024
 [Gradescope](https://www.gradescope.com/courses/798344){: .btn .btn-gradescope}
 [Lecture Recordings](https://bcourses.berkeley.edu/courses/1535365/external_tools/90481){: .btn .btn-bcourses}
 [Textbook](https://inferentialthinking.com/chapters/intro.html){: .btn .btn-textbook}
-<!--
-[Extensions](https://docs.google.com/forms/d/e/1FAIpQLScuJXqPqocHgYd1SLx2GryGVUhcA6_OzDtYZvbhek3La65KxA/viewform){: .btn .btn-extensions}
--->
-[Office Hours Queue](https://oh.data8.org/){: .btn .btn-officehours}
 [Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
+
+{% assign announcements = site.announcements | reverse %}
+{% for announcement in announcements %}
+{{ announcement }}
+{% endfor %}
 
 {% for module in site.modules %}
 {{ module }}

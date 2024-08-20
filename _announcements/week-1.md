@@ -1,7 +1,7 @@
 ---
 title: Week 1 Announcement
 week: 1
-date: 2019-04-08
+date: 2021-08-28
 ---
 
 1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
