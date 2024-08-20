@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Data 8: Foundations of Data Science 📊
+# **Data 8: Foundations of Data Science**
 
 {: .mb-2 }
 UC Berkeley, Fall 2024
