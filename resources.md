@@ -6,9 +6,8 @@ description: >-
 nav_order: 5
 ---
 
-# Resources
-
 {:.no_toc}
+# Resources
 
 ### Table of Contents
 {: .no_toc .text-delta }
