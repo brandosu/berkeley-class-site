@@ -1,23 +1,21 @@
 ---
-title: Basic Data Structures
+title: Week 2
+class: Berkeley
+status: Active
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Sep 2
+: **Labor Day**{: .label} No class
+: **Lab**{: .label .label-lab} {{site.links.lab.lab02}} (Due 9/6)
+    : {{site.links.wksht.wksht02}}
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Sep 4
+: **3**{: .label} Tables
+    : {{site.links.lec.slides.slide03}} {{site.links.lec.demo.demo03}}
+: _Reading:_ [3](https://inferentialthinking.com/chapters/03/programming-in-python.html)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Project**{: .label .label-green } [Project 1: Ants vs. Some Bees]({% link _projects/proj01.md %})
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Sep 6
+: **4**{: .label} Data Types
+    : {{site.links.lec.slides.slide04}} {{site.links.lec.demo.demo04}}
+: _Reading:_ [4](https://inferentialthinking.com/chapters/04/Data_Types.html), [5](https://inferentialthinking.com/chapters/05/Sequences.html)
+: **Homework**{: .label .label-homework} {{site.links.hw.hw02}} (Due 9/11)

@@ -20,17 +20,8 @@ UC Berkeley, Fall 2024
 
 {% assign announcements = site.announcements | where: "week", site.current_week | reverse %}
 {% for announcement in announcements %}
-{{ announcement.content }}
-{% endfor %}
-
-{% assign announcements = site.announcements | reverse %}
-{% for announcement in announcements %}
 {{ announcement }}
 {% endfor %}
-
-<p>Current week: {{ site.config.current_week }}</p>
-
-<p>Total announcements for current week: {{ announcements | size }}</p>
 
 {% for module in site.modules %}
 {{ module }}
