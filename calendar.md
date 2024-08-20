@@ -23,6 +23,15 @@ UC Berkeley, Fall 2024
 {{ announcement }}
 {% endfor %}
 
-{% for module in site.modules %}
-{{ module }}
+{% assign mods = site.modules | where: 'class', 'Berkeley' %}
+{% assign active-mods = '' | split: '' %}
+
+{% for mod in mods %}
+  {% if mod.status == 'Active' %}
+    {% assign active-mods = active-mods | push: mod %}
+  {% endif %}
+{% endfor %}
+
+{% for module in active-mods %}
+  {{ module }}
 {% endfor %}
