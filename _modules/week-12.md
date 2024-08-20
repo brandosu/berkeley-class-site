@@ -6,7 +6,7 @@ status: Active
 
 Nov 11
 : **Veterans Day**{: .label} No class
-: **Lab**{: .label .label-lab} {{site.links.lab.lab09}} 
+: **Lab**{: .label .label-lab} {{site.links.lab.lab09}} (Due 11/15)
     : {{site.links.wksht.wksht09}}
 
 Nov 13
