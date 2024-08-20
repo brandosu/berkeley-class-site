@@ -220,15 +220,15 @@
   // COLORS
   
   a {
-    color: $blue-100;
+    color: #7698fe;
   }
   
   .main-content .anchor-heading svg {
-    color: $blue-100 !important;
+    color: #7698fe !important;
   }
   
   .icon {
-    color: $blue-100 !important;
+    color: #7698fe !important;
   }
   // Overrides
   a abbr[title] {
@@ -394,27 +394,27 @@
   */
   
   .dm-btn::selection {
-    background-color: #183385 !important;
+    background-color: #7698fe !important;
   }
   
   .dm-btn {
-    color: #264caf !important;
+    color: #7698fe !important;
   }
   
   .dm-btn:hover {
-    color: #2869e6 !important;
+    color: #7698fe !important;
   }
   
   .dm-btn:focus:hover {
-    color: #2869e6 !important;
+    color: #7698fe!important;
   }
   
   .search-icon::selection {
-    background-color: #2c84fa !important;
+    background-color: #7698fe !important;
   }
   
   .dm-text {
-    color: white;
+    color: white !important;
     font-size: 0.7em;
   }
   
