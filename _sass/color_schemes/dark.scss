@@ -57,6 +57,15 @@ $office-hours-color: #7BEAF9;
 $exam-color: #F977B8;
 $block-text-color: #27262b;
 
+.dropdownContent {
+  background-color: #000000 !important; // Replace with your custom color code
+}
+
+
+.dropdownContent li a {
+  color: #FFFFFF !important; /* Set link color */
+}
+
 $btn-primary-color: #ffffff;
 $base-button-color: $grey-dk-200;
 

@@ -50,6 +50,11 @@ Exams, practice exams, and walkthrough videos from previous semesters can be fou
 
 {% include past-exams.md %}
 
+
+## Exam Problems by Topic
+* We apologize this section does not yet currently work for dark mode, we're looking to fix this issue soon!
+{% include resources-content.html %}
+
 ## Wellness Resources
 
 Your well-being matters, and we hope that Data 8 is _never_ a barrier to taking care of your mental and physical health. Below are some campus resources that may be helpful:

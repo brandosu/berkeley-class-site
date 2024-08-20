@@ -3,6 +3,7 @@
 @import 'card';
 @import 'announcement';
 @import 'staffer';
+@import 'resources';
 
 // CUSTOM
 
@@ -236,3 +237,4 @@
   .btn-officehours{
     @include btn-color($white, #1863c1);
   }
+
