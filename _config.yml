@@ -138,7 +138,7 @@ plugins:
   - jekyll-include-cache
 
 # Theme settings
-theme: just-the-docs
+theme: just-the-docs/just-the-docs@v0.3.3
 search_enabled: true
 heading_anchors: true
 permalink: pretty
