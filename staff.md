@@ -5,7 +5,7 @@ description: A listing of all the course staff members.
 nav_order: 4
 ---
 
-# Staff
+# **Staff**
 
 Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
 
@@ -42,16 +42,6 @@ Staff information is stored in the `_staffers` directory and rendered according 
 ## Tutors
 
 {% for staffer in tutors %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
-
-{% assign academic_interns = site.staffers | where: 'role', 'Academic Intern' %}
-{% assign num_academic_interns = academic_interns | size %}
-{% if num_academic_interns != 0 %}
-## Academic Interns
-
-{% for staffer in academic_interns %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
