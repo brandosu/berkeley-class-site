@@ -1,6 +1,6 @@
 ---
 name: Jane Doe
-role: Head Teaching Assistant
+role: uGSI (UCS2)
 email: janedoe@berkeley.edu
 team: Course Director
 ---
